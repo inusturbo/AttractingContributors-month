@@ -15,9 +15,24 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My Project　（What’s your fav Inspiring Quotes?）
+Could you please tell me What is your Inspiring Quotes?
 
-# List of Hobby
+"Let's adorn our lives with eloquent expressions, enriching them with kindness and uplifting spirits! May your own journey be graced with boundless joy and contentment."
+
+# How to
+
+Clone the forked repository to your local machine and your favorite Inspiring Quotes at the last of this README file
+
+Note：Include the person's name, and write "Anonymous" when anonymous
+
+# List of fav Inspiring Quotes
+
+"Enemy is always in myself"  
+   Keisuke Honda
+"A ship in harbor is safe, but that is not what ships are built for.”  
+   John A. Shedd
+"Repetition is the mother of learning" 
+   Anonymous
+
