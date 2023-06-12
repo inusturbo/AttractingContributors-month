@@ -29,12 +29,12 @@ Note：Include the person's name, and write "Anonymous" when anonymous
 
 # List of fav Inspiring Quotes
 
-### Enemy is always in myself  
+###1. Enemy is always in myself  
 Keisuke Honda
    
-### A ship in harbor is safe, but that is not what ships are built for   
+###2. A ship in harbor is safe, but that is not what ships are built for   
 John A. Shedd
    
-### Repetition is the mother of learning   
+###3. Repetition is the mother of learning   
 Anonymous
 
