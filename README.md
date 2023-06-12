@@ -31,8 +31,10 @@ Note：Include the person's name, and write "Anonymous" when anonymous
 
 "Enemy is always in myself"  
    Keisuke Honda
+   
 "A ship in harbor is safe, but that is not what ships are built for.”  
    John A. Shedd
+   
 "Repetition is the mother of learning" 
    Anonymous
 
