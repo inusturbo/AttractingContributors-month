@@ -48,6 +48,7 @@ Done! Good job! I will merge it. Thank you in advance for your contribution, and
 12. Apr.
 13. May.
 14. Dec.
-15. June 
-16. Oct.
-17. Chin.
+15. Sep.
+16. June 
+17. Oct.
+18. Chin.
