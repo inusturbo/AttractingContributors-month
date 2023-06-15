@@ -29,3 +29,4 @@ Goal: I want contributors to suggest me some of their favourite Series or Shows
 8. Numbers
 9. Once Upon a Time
 10. Queen's Gambit
+11. Avatar: The Last Airbender
