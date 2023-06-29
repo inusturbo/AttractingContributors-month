@@ -35,4 +35,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 12. Beer
 13. Black Coffee
 14. ginger ale
-
+15. cola
+16. Calpis
